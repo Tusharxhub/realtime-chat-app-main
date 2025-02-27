@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Reset margin and padding for all elements */
+body, * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Account for padding and borders in element width/height */
+}
+
+/* Add smooth transition for button elements */
+button {
+  transition-duration: 250ms;
+  -webkit-transition-duration: 250ms; /* For Safari */
+  -moz-transition-duration: 250ms; /* For Firefox */
+  -o-transition-duration: 250ms; /* For Opera */
+}

@@ -1,4 +1,4 @@
-[# 🚀 Realtime Chat App
+# 🚀 Realtime Chat App
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Tusharxhub/realtime-chat-app-main?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/Tusharxhub/realtime-chat-app-main?style=for-the-badge)
@@ -52,7 +52,7 @@ npm start
 ```
 
 ## 📸 Screenshots
-![Chat App UI]([WhatsApp Image 2025-02-12 at 22.43.37_b49ceb85.jpg)](https://raw.githubusercontent.com/Tusharxhub/realtime-chat-app-main/6d45cd8bec345ef3c7ea1ce233fe625549e7867c/UI.jpg)
+![Chat App UI](https://github.com/Tusharxhub/realtime-chat-app-main/blob/e53730e47cf44256ee3060a1d7b047c6b9866ec8/WhatsApp%20Image%202025-02-12%20at%2022.43.37_b49ceb85.jpg)
 
 ## 🚀 Deployment
 The app can be deployed on platforms like **Vercel, Netlify (Frontend), and Render, Heroku (Backend)**.
@@ -72,4 +72,3 @@ This project is licensed under the **MIT License**.
 🔗 **GitHub:** [Tusharxhub](https://github.com/Tusharxhub)  
 📧 **Email:** t.k.d.dey2033929837@gmail.com  
 📱 **Instagram:** [@tushardevx01](https://www.instagram.com/tushardevx01/)
-](https://github.com/Tusharxhub/realtime-chat-app-main/blob/e53730e47cf44256ee3060a1d7b047c6b9866ec8/WhatsApp%20Image%202025-02-12%20at%2022.43.37_b49ceb85.jpg)

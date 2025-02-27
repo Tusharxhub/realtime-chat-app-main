@@ -52,7 +52,7 @@ npm start
 ```
 
 ## 📸 Screenshots
-![Chat App UI](https://via.placeholder.com/800x400.png?text=Screenshot+Coming+Soon)
+![Chat App UI](WhatsApp Image 2025-02-12 at 22.43.37_b49ceb85.jpg)
 
 ## 🚀 Deployment
 The app can be deployed on platforms like **Vercel, Netlify (Frontend), and Render, Heroku (Backend)**.

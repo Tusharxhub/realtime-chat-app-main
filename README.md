@@ -52,7 +52,7 @@ npm start
 ```
 
 ## 📸 Screenshots
-![Chat App UI](WhatsApp Image 2025-02-12 at 22.43.37_b49ceb85.jpg)
+![Chat App UI]([WhatsApp Image 2025-02-12 at 22.43.37_b49ceb85.jpg)](https://raw.githubusercontent.com/Tusharxhub/realtime-chat-app-main/6d45cd8bec345ef3c7ea1ce233fe625549e7867c/UI.jpg)
 
 ## 🚀 Deployment
 The app can be deployed on platforms like **Vercel, Netlify (Frontend), and Render, Heroku (Backend)**.

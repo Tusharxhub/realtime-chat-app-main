@@ -1,4 +1,4 @@
-# 🚀 Realtime Chat App
+[# 🚀 Realtime Chat App
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Tusharxhub/realtime-chat-app-main?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/Tusharxhub/realtime-chat-app-main?style=for-the-badge)
@@ -72,3 +72,4 @@ This project is licensed under the **MIT License**.
 🔗 **GitHub:** [Tusharxhub](https://github.com/Tusharxhub)  
 📧 **Email:** t.k.d.dey2033929837@gmail.com  
 📱 **Instagram:** [@tushardevx01](https://www.instagram.com/tushardevx01/)
+](https://github.com/Tusharxhub/realtime-chat-app-main/blob/e53730e47cf44256ee3060a1d7b047c6b9866ec8/WhatsApp%20Image%202025-02-12%20at%2022.43.37_b49ceb85.jpg)
